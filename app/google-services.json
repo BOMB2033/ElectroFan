@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687816573584",
+    "project_id": "electrofan",
+    "storage_bucket": "electrofan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687816573584:android:5f72b77a29be98b0bf8e15",
+        "android_client_info": {
+          "package_name": "com.example.electrofan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwtt01z3bgzDzuV9ij7QA3eqPsrCZU2T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
